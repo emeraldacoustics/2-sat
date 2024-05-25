@@ -5,8 +5,6 @@ using namespace std;
 class TwoSAT
 {
 public:
-	static const int maxn = 1000;
-
 	int n;
 	vector<vector<int> > e;
 	int c;
